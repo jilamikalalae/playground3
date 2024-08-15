@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <div>
-      <img src="https://static.wikia.nocookie.net/hellokitty/images/8/8d/Sanrio_Characters_Kuromi_Image016.png/revision/latest?cb=20170404142717" alt="kuromi" />
+      <img src="https://static.wikia.nocookie.net/hellokitty/images/8/8d/Sanrio_Characters_Kuromi_Image016.png/revision/latest?cb=20170404142717" alt="" />
     </div>
       <div>
         <a href="https://vitejs.dev" target="_blank">
@@ -19,7 +19,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Guitar</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
